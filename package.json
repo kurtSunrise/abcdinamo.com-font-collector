@@ -1,0 +1,34 @@
+{
+  "name": "dinamo-font-downloader",
+  "version": "1.0.0",
+  "description": "Browser-based script to download WOFF2 fonts from Dinamo's CDN (abcdinamo.com)",
+  "main": "download_combined.js",
+  "scripts": {
+    "start": "echo 'Open index.html in a browser to get started'",
+    "help": "echo 'See README.md for documentation'"
+  },
+  "keywords": [
+    "fonts",
+    "dinamo",
+    "woff2",
+    "download",
+    "browser",
+    "automation"
+  ],
+  "author": "Claude Code",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dinamo-font-downloader.git"
+  },
+  "files": [
+    "config.js",
+    "download_fonts.js",
+    "download_combined.js",
+    "README.md",
+    "EXAMPLES.md",
+    "LICENSE",
+    ".gitignore",
+    "index.html"
+  ]
+}
